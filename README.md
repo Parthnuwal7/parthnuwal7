@@ -1,47 +1,28 @@
 ## Hi there! 👋
 
-I'm Parth Nuwal, a passionate ML engineer and tech enthusiast. I'm I enjoy working on the backend side of systems - building APIs, integrating ML workflows and designing reliable system from scratch to MVP. My work has primarily involved Python, FastAPI backends, ML pipelines and Natural language processing (NLP). I focus on clarity and building things that work beyond demos.
-<!--
-**Parthnuwal7/parthnuwal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Parth Nuwal, a passionate ML engineer and tech enthusiast. I build backend-heavy ML and analytics systems — APIs, data workflows, and ML pipelines. My work centers around Python-based backends (FastAPI/Flask), ML pipelines and natural language processing. I care about building systems that hold up beyond demo and scale from scratch to MVP.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Tech Stack 🧑🏻‍💻
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-0A0A0A?style=flat&logo=flask)
 ![PostgreSQL](https://img.shields.io/badge/SQL-0A0A0A?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=flat&logo=mongodb)
 ![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=flat&logo=supabase)
-![Tableau](https://img.shields.io/badge/Tableau-0A0A0A?style=flat&logo=tableau)
 ![dbt](https://img.shields.io/badge/dbt-0A0A0A?style=flat&logo=dbt)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0A0A0A?style=flat&logo=scikitlearn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0A?style=flat&logo=tensorflow)
 ![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat&logo=langchain)
-![Google Gemini](https://img.shields.io/badge/Gemini-0A0A0A?style=flat&logo=google)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0A0A0A?style=flat&logo=huggingface)
-![Playwright](https://img.shields.io/badge/Playwright-0A0A0A?style=flat&logo=playwright)
 ![n8n](https://img.shields.io/badge/n8n-0A0A0A?style=flat&logo=n8n)
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat&logo=github)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-0A0A0A?style=flat)
 
-### Core Stack
+### Core Stack 
 - **Languages**: Python, SQL  
 - **Backend**: FastAPI, Flask, PostgreSQL, MongoDB, Redis  
 - **AI / ML**: NLP, RAG, classical ML, LLM tooling  
 - **Infra & Tools**: Docker, Git, Supabase, HuggingFace Spaces
 
-## Selected Projects
+## Recent Projects 📨
 - **X-101** _(Currently working)_ — AI-powered decision & BI system for non-technical stakeholders  
   _Automates data modeling, insights, dashboards and experimentation_
 
@@ -51,11 +32,24 @@ Here are some ideas to get you started:
 - **Ido** — Behavioral analytics from YouTube watch history  
   _Personalized insights similar to (but deeper than) YouTube Wrapped_
   
-- **Snappy** — Billing and client management system focused on Lawyers (Live Project)  
+- **Snappy** — Billing and client management system for legal professionals (Live Project)   
   _Client and billing management workflow_
 
+## Socials 🌐
+<p align="left">
+  <a href="https://www.linkedin.com/in/parth-nuwal-9a81b9226/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat&logo=linkedin" />
+  </a> |
+  <a href="mailto:parthnuwal7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=flat&logo=gmail" />
+  </a> |
+  <a href="https://parth-nuwal-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=vercel" />
+  </a>
+</p>
 
-Outside tech, I’m a street & portrait photographer — visual thinking influences how I design systems.  
+---
+Outside tech, I’m a street & portrait photographer — I like capturing emotions and daily life.  
 You can check out my work here at
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white&label=)](https://www.instagram.com/infinite.pixelz/)
 |
@@ -64,9 +58,10 @@ You can check out my work here at
     src="https://img.shields.io/badge/infinite.pixelz.com-0A0A0A?style=flat"
     style="vertical-align: middle;"
   />
-</a>
-
-
+</a>  
+  
+>“Simplicity is prerequisite for reliability.”
+>— Edsger W. Dijkstra
 
 
 
