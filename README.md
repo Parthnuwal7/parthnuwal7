@@ -43,31 +43,25 @@ Here are some ideas to get you started:
 
 ## Selected Projects
 - **X-101** _(Currently working)_ — AI-powered decision & BI system for non-technical stakeholders  
-  _Automates data modeling, insights, dashboards, and experimentation_
+  _Automates data modeling, insights, dashboards and experimentation_
 
 - **Insights** — Multilingual NLP system for abstract-based review analytics  
-  _Topic modeling, sentiment, and semantic aggregation_
+  _Topic modeling, sentiment and semantic aggregation_
 
 - **Ido** — Behavioral analytics from YouTube watch history  
   _Personalized insights similar to (but deeper than) YouTube Wrapped_
   
-- **ADEL** — Automated data model & schema inference engine  
-  _Maps raw CSVs into structured, query-ready schemas_
+- **Snappy** — Billing and client management system focused on Lawyers (Live Project)  
+  _Client and billing management workflow_
 
 
-Outside tech, I’m a street & portrait photographer — visual thinking influences how I design systems.
+Outside tech, I’m a street & portrait photographer — visual thinking influences how I design systems.  
 You can check out my work here at
-<a href="https://www.instagram.com/infinite.pixelz/">
-  <img
-    src="https://raw.githubusercontent.com/parthnuwal7/parthnuwal7/main/instagram.svg"
-    width="20"
-    style="vertical-align: middle; margin-top: 3px;"
-  />
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white&label=)](https://www.instagram.com/infinite.pixelz/)
 |
 <a href="https://infinite-pixelz.onrender.com/">
   <img
-    src="https://img.shields.io/badge/infinite.pixelz-0A0A0A?style=flat"
+    src="https://img.shields.io/badge/infinite.pixelz.com-0A0A0A?style=flat"
     style="vertical-align: middle;"
   />
 </a>
