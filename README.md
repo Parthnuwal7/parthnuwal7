@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Parth Nuwal, a passionate ML engineer and tech enthusiast. I build backend-heavy ML and analytics systems — APIs, data workflows, and ML pipelines. My work centers around Python-based backends (FastAPI/Flask), ML pipelines and natural language processing. I care about building systems that hold up beyond demo and scale from scratch to MVP.
+I'm Parth Nuwal. I build backend-heavy ML and analytics systems — APIs, data workflows, and ML pipelines. My work centers around Python-based backends (FastAPI/Flask), ML pipelines and natural language processing. I care about building systems that hold up beyond demo and scale from scratch to MVP.
 
 ## Tech Stack 🧑🏻‍💻
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat&logo=python)
