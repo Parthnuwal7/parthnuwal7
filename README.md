@@ -55,7 +55,26 @@ Here are some ideas to get you started:
   _Maps raw CSVs into structured, query-ready schemas_
 
 
-Outside tech, I’m a street & portrait photographer — visual thinking influences how I design systems. You can check out my work here at [![Instagram](https://raw.githubusercontent.com/parthnuwal7/parthnuwal7/main/instagram.svg)](https://www.instagram.com/infinite.pixelz/)
+Outside tech, I’m a street & portrait photographer — visual thinking influences how I design systems.
+You can check out my work here at
+<a href="https://www.instagram.com/infinite.pixelz/">
+  <img
+    src="https://raw.githubusercontent.com/parthnuwal7/parthnuwal7/main/instagram.svg"
+    width="20"
+    style="vertical-align: middle; margin-top: 3px;"
+  />
+</a>
+|
+<a href="https://infinite-pixelz.onrender.com/">
+  <img
+    src="https://img.shields.io/badge/infinite.pixelz-0A0A0A?style=flat"
+    style="vertical-align: middle;"
+  />
+</a>
+
+
+
+
 
 
 
